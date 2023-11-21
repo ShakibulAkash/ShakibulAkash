@@ -32,7 +32,3 @@ Skills: NEXT / JS / PHP / CSS/C++/JAVA/MS EXCEL
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ShakibulAkash/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ShakibulAkash)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ShakibulAkash)  
-
